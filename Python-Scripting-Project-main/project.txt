@@ -1,0 +1,7 @@
+
+
+We have a large set of directories and files
+we need to group together directories of a particular name into another directory
+We remove certain parts of dir name
+we compile and run code inside the dir
+We generate a json file containing metadata
